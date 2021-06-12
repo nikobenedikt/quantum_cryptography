@@ -18,12 +18,12 @@ Kanban Boards:  [**Everyone**](https://github.com/bmedicke/quantum_cryptography/
 
 ## contributors
 
-| Author           | GitHub profile                                  | homepage                                 |
-|------------------|-------------------------------------------------|------------------------------------------|
-| Benjamin Medicke | [bmedicke](https://github.com/bmedicke)         | [benmedicke.com](https://benmedicke.com) |
-| Ferdi Cevik      | [Osomo3000](https://github.com/Osomo3000)       | [cf-projects](http://cf-projects.net/)   |
-| Manuel Nagel     | [namanuel](https://github.com/namanuel)         |                                          |
-| Nikolai Benedikt | [nikobenedikt](https://github.com/nikobenedikt) |                                          |
+| Author           | GitHub profile                                  | homepage                                                   |
+|------------------|-------------------------------------------------|------------------------------------------------------------|
+| Benjamin Medicke | [bmedicke](https://github.com/bmedicke)         | [benmedicke.com](https://benmedicke.com)                   |
+| Ferdi Cevik      | [Osomo3000](https://github.com/Osomo3000)       | [cf-projects](http://cf-projects.net/)                     |
+| Manuel Nagel     | [namanuel](https://github.com/namanuel)         | [namanuel.github.io](https://namanuel.github.io/)          |
+| Nikolai Benedikt | [nikobenedikt](https://github.com/nikobenedikt) |                                                            |
 
 ## repository structure
 
@@ -35,6 +35,7 @@ Here's a quick breakdown of what to find where in the repository:
 * [Setup](markdown/setup.md) 🧑🏻‍💻 installation instructions for the software and required services
 * [Notebooks](notebooks) 🪐 contains the actual JupyterLab Notebooks for Alice, Bob and Eve
 * [Guidelines](markdown/guidelines.md) ✒️  coding and contribution guidelines
+* [qcrypt docs](https://bmedicke.github.io/quantum_cryptography) 📜 documentation for the quantum crypto library
 
 ## frequently asked questions
 
